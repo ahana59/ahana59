@@ -1,0 +1,25 @@
+body{
+text-align: center;
+font-family: cursive;
+background-color:aqua;
+}
+
+img{
+transition:transform.2s
+border: 10px solid #AAAAAA;
+}
+
+img:hover{
+transform: scale (0.9);
+}
+
+img{
+height: 200px;
+width:200px;
+border-radius: 20;
+}
+
+menu{
+text-align: horizontal;
+}
+
